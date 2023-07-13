@@ -1,0 +1,131 @@
+body {
+  font-family: monospace;
+}
+#title {
+  background-color: rgb(173, 16, 95);
+}
+
+.targetall {
+  padding: 2% 30%;
+}
+
+.container-fluid {
+  padding-bottom: 20px;
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  margin-top: 20px;
+}
+h1 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+.navbar {
+  margin-bottom: 3%;
+}
+.nav-item {
+  margin: 0px 50px;
+}
+.lastone {
+  margin-right: 20%;
+}
+.download-button {
+  margin: 5% 3%;
+}
+.bodytitle {
+  font-weight: bold;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 64px;
+}
+.row {
+  padding: 50px;
+  position: relative;
+}
+
+.container-fluid h3 {
+  color: black;
+  font-family: monospace, sans-serif;
+  font-weight: bold;
+}
+.catphoto {
+  transform: rotate(20deg);
+  width: 30%;
+}
+#features {
+  position: relative;
+  background-color: white;
+}
+
+.icon {
+  font-size: 50px;
+  color: red;
+  width: 10%;
+}
+.icon:hover {
+  color: black;
+}
+.iconrow {
+  padding: 10px;
+}
+
+.sectiontext {
+  color: black;
+  /* margin-top: 5%; */
+}
+
+p {
+  color: black;
+  font-family: sans-serif;
+}
+#testimonials {
+  margin-top: 75px;
+  background-color: rgb(173, 16, 95);
+  padding: 5%;
+  text-align: center;
+  color: white;
+}
+.testimonials-picture {
+  width: 10%;
+  border-radius: 50%;
+  margin: 2%;
+}
+#press {
+  background-color: rgb(173, 16, 95);
+  padding-top: 1%;
+  padding-bottom: 3%;
+  text-align: center;
+  color: white;
+  height: 3%;
+}
+.press-image {
+  margin: 2%;
+}
+.pricingheader {
+  text-align: center;
+  color: red;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#pricing {
+  margin-top: 90px;
+}
+#cta{
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  font-family: 'Ubuntu-black', sans-serif;
+}
+#footer{
+  text-align: center;
+  padding:  1%;
+}
+.social-icons {
+  padding: 5%;
+  font-weight: bold;
+}
+.cardrow{
+  height: 100%;
+  width: 100%;
+}
